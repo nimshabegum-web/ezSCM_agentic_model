@@ -86,7 +86,7 @@ This project demonstrates three levels of a smart assistant using Google Gemini 
      ```
    - **Windows Command Prompt:**
      ```cmd
-     set GEMINI_API_KEY=your_api_key_here
+     set GEMINI_API_KEY="your_api_key_here"
      ```
    - **Windows PowerShell:**
      ```powershell
